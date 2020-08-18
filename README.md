@@ -16,17 +16,15 @@ NCLM AND HNR Group Network(群组网络)
 ### Java Editon Server IP
 * 游戏版本：1.16.1
 * 服务器列表:Server1(s1)创造服 Server2(s2)生存服 Server3(s3)战争服
-* ①`cn-zj-bgp.sakurafrp.com:56495`(镇江）
-* ②`cn-zz-bgp-2.sakurafrp.com:10364`（枣庄）
-* ③`cn-cd-dx.sakurafrp.com:36399`（成都）
+* 暂不提供
 ### Bedblock Editon Server IP
 #### 现在已经实现BE和JE的互通，可以在手机，win10端或主机端登录主服务器，部分插件可能不完全支持,BE版MC端口与IP是分开写的
 * 游戏版本：1.16.10
 * 安卓端BE版免费下载地址:https://minecraftpe-mods.com/
-* `43.249.192.24:27721`<br>
+* 暂不提供
 ### Dynmap(服务器动态地图)IP
 #### 直接在浏览器输入此ip即可，由于是国外ip，不稳定，会随时更换
-* `us-la-kr.sakurafrp.com:61886`
+* 暂不提供
 ## 2.服务器更新日志
 注:Ver.0.1前不做记录,本文本于Ver.0.25后开始记录，Ver.0.25前做简要记录
 
