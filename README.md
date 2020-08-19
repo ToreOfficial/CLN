@@ -4,28 +4,32 @@ NCLM AND HNR Group Network(群组网络)
 设立本项目的目的为，公示服务器近期修改内容（更快的发布更新信息），玩家们可以更好的提出意见和反馈BUG以及推广服务器等<br>
 本项目可以在所有者(NCLMREDTEA)同意的情况下进行公开修改，本项目由NAHGN玩家共同所有，NCLMREDTEA对其有最终解释权
 ## 0.目录
-* 0.目录
-* 1.服务器信息
-* 2.服务器更新日志
-* 3.如何提交建议和反馈BUG
-* 4.服务器相关资源下载
-* 5.自定义添加音效DIY Sounds(Powered By Leo204_LKY)
-* 6.加入我们
-* 6.相关网址推荐Website Recommendation
+* 0.[目录](https://github.com/nclmredtea/NAHGN#0%E7%9B%AE%E5%BD%95)
+* 1.[服务器信息](https://github.com/nclmredtea/NAHGN#1%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF)
+* 2.[服务器更新日志](https://github.com/nclmredtea/NAHGN#2%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+* 3.[如何提交建议和反馈BUG](https://github.com/nclmredtea/NAHGN#3%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AE%AE%E5%92%8C%E5%8F%8D%E9%A6%88bug)
+* 4.[服务器相关资源下载](https://github.com/nclmredtea/NAHGN#4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD)
+* 5.[自定义添加音效DIY Sounds(Powered By Leo204_LKY)](https://github.com/nclmredtea/NAHGN#5%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B7%BB%E5%8A%A0%E9%9F%B3%E6%95%88diy-soundspowered-by-leo204_lky)
+* 6.[加入我们](https://github.com/nclmredtea/NAHGN#6%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC)
+* 6.[相关网址推荐Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
 ## 1.服务器信息
-### Java Editon Server IP
+### 服务器简介
+待编辑
+### 服务器IP
+#### Java Editon Server IP
 * 游戏版本：1.16.1
 * 服务器列表:Server1(s1)创造服 Server2(s2)生存服 Server3(s3)战争服
 * 暂不提供
-### Bedblock Editon Server IP
-#### 现在已经实现BE和JE的互通，可以在手机，win10端或主机端登录主服务器，部分插件可能不完全支持,BE版MC端口与IP是分开写的
+#### Bedblock Editon Server IP
+##### 现在已经实现BE和JE的互通，可以在手机，win10端或主机端登录主服务器，部分插件可能不完全支持,BE版MC端口与IP是分开写的
 * 游戏版本：1.16.10
 * 安卓端BE版免费下载地址:https://minecraftpe-mods.com/
 * 暂不提供
-### Dynmap(服务器动态地图)IP
-#### 直接在浏览器输入此ip即可，由于是国外ip，不稳定，会随时更换
+#### Dynmap(服务器动态地图)IP
+##### 直接在浏览器输入此ip即可，由于是国外ip，不稳定，会随时更换
 * 暂不提供
 ## 2.服务器更新日志
+### 更新日志
 注:Ver.0.1前不做记录,本文本于Ver.0.25后开始记录，Ver.0.25前做简要记录
 
 Ver.0.1<br>
@@ -39,6 +43,8 @@ Ver.0.22<br>
 
 Ver.0.25<br>
 * 你现在可以在Leo204_LKY的NAHGN-Sound-Pack项目中提交你想要自定义的音效了
+### 未来更新计划
+待编辑
 ## 3.如何提交建议和反馈BUG
 傻瓜式:[点击这里](https://github.com/nclmredtea/NAHGN/issues/new/choose)<br>
 或者转到`Issues`然后点击`New issue`按钮创建，然后在`Leave a comment`输入框输入反馈内容<br>
