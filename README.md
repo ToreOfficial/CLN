@@ -14,7 +14,7 @@
 * 3.[如何提交建议和反馈BUG](https://github.com/nclmredtea/NAHGN#3%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AE%AE%E5%92%8C%E5%8F%8D%E9%A6%88bug)
 * 4.[服务器相关资源下载](https://github.com/nclmredtea/NAHGN#4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD)
 	* [服务器资源包Resourcepacks](https://github.com/nclmredtea/NAHGN#%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%E5%8C%85resourcepacks)
-	* [服务器整合包]()
+	* [服务器整合包](https://github.com/nclmredtea/NAHGN/blob/master/README.md#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B4%E5%90%88%E5%8C%85)
 * 5.[自定义添加音效DIY Sounds(Powered By Leo204_LKY)](https://github.com/nclmredtea/NAHGN#5%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B7%BB%E5%8A%A0%E9%9F%B3%E6%95%88diy-soundspowered-by-leo204_lky)
 * 6.[加入我们](https://github.com/nclmredtea/NAHGN#6%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC)
 	* [Discord服务器邀请链接](https://discord.gg/pjhdvhT)
@@ -76,9 +76,9 @@ Ver.0.25<br>
 	* (PS:此资源包需要解压，解压后放入resourcepacks文件夹)
 * NAHGN音效包下载地址:https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases
 	* (Powered By Leo204_LKY)
+#### 材质包安装方法：下载压缩包后，直接放入游戏根目录的resourcepacks文件夹，不用解压（车辆材质包例外)
 ### 服务器整合包
 * 您可以在右侧的Releases内找到最新上传的服务器整合包，其内容包括Optifine,常用版本整合以及服务器的必须物品
-#### 材质包安装方法：下载压缩包后，直接放入游戏根目录的resourcepacks文件夹，不用解压（车辆材质包例外)
 ## 5.自定义添加音效DIY Sounds(Powered By Leo204_LKY)
 * Leo开发的NAHGN音效包支持自定义添加音效，如果有需要，可以提供音源给Leo并在GitHub上申请（各种音效都可以）<br>
 申请/提供地址:https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues
