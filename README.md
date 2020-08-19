@@ -14,6 +14,7 @@
 * 6.[相关网址推荐Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
 ## 1.服务器信息
 ### 服务器简介
+### NAHGN的wiki正在完善，更多信息可以查看wiki！
 NCLM AND HNR Group Network(群组网络),指NCLM团队和HNR团队共同组建的群组服务器，服务器目前主要由三个服务器构成Server1(s1)是创造服，也是最主要的服务器，其中的NAH世界为主要世界，是服务器Ver.0.1版本时，由NCLM存档和HNR存档合并而来，汇聚现玩家团体大量心血在内。Server2(s2)是生存服，只有当有需求时才开服，拥有少量插件，一般情况下存档不做保存。Server3(s3)是战争服，是最近新兴的一个服务器，其主要插件为枪械插件和战争插件，玩家可以在其中相互合作打怪，亦或者是相互PVP来一次N+1方的战争,主要世界有T-30（作者提供）和The_End_of_NAH（自行制作）
 ### 服务器IP
 #### Java Editon Server IP
@@ -89,4 +90,4 @@ Ver.0.25<br>
 * MinecraftWiki我的世界百科(bilibili镜像):https://wiki.biligame.com/mc/Minecraft_Wiki
 * GitHub:https://github.com/
 * Minecraft官网:https://minecraft.net/
-* CowTransfer牛奶快传:https://cowtransfer.com/
+* CowTransfer奶牛快传:https://cowtransfer.com/
