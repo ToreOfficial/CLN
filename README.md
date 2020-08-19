@@ -1,5 +1,5 @@
 # NAHGN
-NCLM AND HNR Group Network(群组网络)
+![NAHGN](https://github.com/nclmredtea/NAHGN/blob/master/Logo%E9%BB%91%E7%99%BD.png "NAHGN'slogo")NCLM AND HNR Group Network(群组网络)
 ## 前言
 设立本项目的目的为，公示服务器近期修改内容（更快的发布更新信息），玩家们可以更好的提出意见和反馈BUG以及推广服务器等<br>
 本项目可以在所有者(NCLMREDTEA)同意的情况下进行公开修改，本项目由NAHGN玩家共同所有，NCLMREDTEA对其有最终解释权
@@ -14,20 +14,20 @@ NCLM AND HNR Group Network(群组网络)
 * 6.[相关网址推荐Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
 ## 1.服务器信息
 ### 服务器简介
-待编辑
+NCLM AND HNR Group Network(群组网络),指NCLM团队和HNR团队共同组建的群组服务器，服务器目前主要由三个服务器构成Server1(s1)是创造服，也是最主要的服务器，其中的NAH世界为主要世界，是服务器Ver.0.1版本时，由NCLM存档和HNR存档合并而来，汇聚现玩家团体大量心血在内。Server2(s2)是生存服，只有当有需求时才开服，拥有少量插件，一般情况下存档不做保存。Server3(s3)是战争服，是最近新兴的一个服务器，其主要插件为枪械插件和战争插件，玩家可以在其中相互合作打怪，亦或者是相互PVP来一次N+1方的战争,主要世界有T-30（作者提供）和The_End_of_NAH（自行制作）
 ### 服务器IP
 #### Java Editon Server IP
+#### 服务器列表:Server1(s1)创造服 Server2(s2)生存服 Server3(s3)战争服
 * 游戏版本：1.16.1
-* 服务器列表:Server1(s1)创造服 Server2(s2)生存服 Server3(s3)战争服
-* 暂不提供
+* 游戏IP可以通过模块6加入我们获取
 #### Bedblock Editon Server IP
-##### 现在已经实现BE和JE的互通，可以在手机，win10端或主机端登录主服务器，部分插件可能不完全支持,BE版MC端口与IP是分开写的
+#### 现在已经实现BE和JE的互通，可以在手机，win10端或主机端登录主服务器，部分插件可能不完全支持,BE版MC端口与IP是分开写的
 * 游戏版本：1.16.10
 * 安卓端BE版免费下载地址:https://minecraftpe-mods.com/
-* 暂不提供
+* 游戏IP可以通过模块6加入我们获取
 #### Dynmap(服务器动态地图)IP
-##### 直接在浏览器输入此ip即可，由于是国外ip，不稳定，会随时更换
-* 暂不提供
+#### 直接在浏览器输入此ip即可，由于是国外ip，不稳定，会随时更换
+* us-la-kr.sakurafrp.com:61886
 ## 2.服务器更新日志
 ### 更新日志
 注:Ver.0.1前不做记录,本文本于Ver.0.25后开始记录，Ver.0.25前做简要记录
@@ -44,7 +44,11 @@ Ver.0.22<br>
 Ver.0.25<br>
 * 你现在可以在Leo204_LKY的NAHGN-Sound-Pack项目中提交你想要自定义的音效了
 ### 未来更新计划
-待编辑
+#### 如有其他建议，可以通过Issues反馈（如何反馈请看模块3）
+- [ ] 新增高版本模组子服
+- [ ] 可以在游戏内观看视频
+- [ ] 通过插件增加服务器可玩性
+- [ ] 通过插件增加服务器可靠性
 ## 3.如何提交建议和反馈BUG
 傻瓜式:[点击这里](https://github.com/nclmredtea/NAHGN/issues/new/choose)<br>
 或者转到`Issues`然后点击`New issue`按钮创建，然后在`Leave a comment`输入框输入反馈内容<br>
