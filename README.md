@@ -41,17 +41,20 @@ NCLM AND HNR Group Network(群组网络),指NCLM团队和HNR团队共同组建�
 ### 更新日志
 注:Ver.0.1前不做记录,本文本于Ver.0.25后开始记录，Ver.0.25前做简要记录
 
-Ver.0.1<br>
+Ver0.1<br>
 * 由NAHOS正式更名为NAHGN（NCLM AND HNR Group Network),服务器由单独服转为群组服，更换大部分IP
 
-Ver.0.2<br>
+Ver0.2<br>
 * 正式实现BE和JE的互通，成为伪双通服（不是真正意义上的双通服），更新相应端口
 
-Ver.0.22<br>
+Ver0.22<br>
 * 新增枪械插件
 
-Ver.0.25<br>
+Ver0.25<br>
 * 你现在可以在Leo204_LKY的NAHGN-Sound-Pack项目中提交你想要自定义的音效了
+
+Ver0.26<br>
+* 新增了Server4备用服,新增了函数绘制地图以及更新相应资源包下载地址，更新了整合包
 ### 未来更新计划
 #### 如有其他建议，可以通过Issues反馈（如何反馈请看模块3）
 - [ ] 新增高版本模组子服
@@ -76,6 +79,7 @@ Ver.0.25<br>
 	* (PS:此资源包需要解压，解压后放入resourcepacks文件夹)
 * NAHGN音效包下载地址:https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases
 	* (Powered By Leo204_LKY)
+* 函数绘制配套资源包下载地址:https://wws.lanzous.com/iK4rKfw2r4f
 #### 材质包安装方法：下载压缩包后，直接放入游戏根目录的resourcepacks文件夹，不用解压（车辆材质包例外)
 ### 服务器整合包
 * 您可以在右侧的Releases内找到最新上传的服务器整合包，其内容包括Optifine,常用版本整合以及服务器的必须物品
