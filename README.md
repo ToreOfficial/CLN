@@ -1,5 +1,5 @@
 # NAHGN
-![NAHGN](https://static.cowtransfer.com/82da6ad2-11fb-4d98-91ff-e4e02af306e6%2F15795e66-65fb-42d6-91ae-adb7788eb29b%2FNAHGN.png?t-s=1598099624521&t-c=0661b096-fafd-4069-b72e-1743c510dae8&attname=NAHGN.png "NAHGN'slogo")NCLM AND HNR Group Network(群组网络)
+![NAHGN](https://imgchr.com/i/ddKN5V "NAHGN'slogo")NCLM AND HNR Group Network(群组网络)
 ## 前言
 设立本项目的目的为，公示服务器近期修改内容（更快的发布更新信息），玩家们可以更好的提出意见和反馈BUG以及推广服务器等<br>
 本项目可以在所有者(NCLMREDTEA)同意的情况下进行公开修改，本项目由NAHGN玩家共同所有，NCLMREDTEA对其有最终解释权
