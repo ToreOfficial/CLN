@@ -7,25 +7,25 @@ The purpose of the project is show the recently changes of NAHGN(Release changes
 You can make changes of the project with NCLMREDTEA's agree.The project has owned by all players and NCLMREDTEA has the final right to explain it.
 ## 0.Contents
 * 0.[Contents](https://github.com/nclmredtea/NAHGN#0%E7%9B%AE%E5%BD%95)
-* 1.[NAHGN's infomations](https://github.com/nclmredtea/NAHGN#1%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF)
-	* [NAHGN's brief introduction](https://github.com/nclmredtea/NAHGN#%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E4%BB%8B)
+* 1.[NAHGN's Infomations](https://github.com/nclmredtea/NAHGN#1%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF)
+	* [NAHGN's Brief Introduction](https://github.com/nclmredtea/NAHGN#%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E4%BB%8B)
 	* [NAHGN's IP](https://github.com/nclmredtea/NAHGN#%E6%9C%8D%E5%8A%A1%E5%99%A8ip)
-* 2.[服务器更新日志](https://github.com/nclmredtea/NAHGN#2%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
-	* [更新日志](https://github.com/nclmredtea/NAHGN#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
-	* [未来更新计划](https://github.com/nclmredtea/NAHGN#%E6%9C%AA%E6%9D%A5%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92)
-* 3.[如何提交建议和反馈BUG](https://github.com/nclmredtea/NAHGN#3%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AE%AE%E5%92%8C%E5%8F%8D%E9%A6%88bug)
-* 4.[服务器相关资源下载](https://github.com/nclmredtea/NAHGN#4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD)
-	* [服务器资源包Resourcepacks](https://github.com/nclmredtea/NAHGN#%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%E5%8C%85resourcepacks)
-	* [服务器整合包](https://github.com/nclmredtea/NAHGN/blob/master/README.md#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B4%E5%90%88%E5%8C%85)
-* 5.[自定义添加音效DIY Sounds(Powered By Leo204_LKY)](https://github.com/nclmredtea/NAHGN#5%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B7%BB%E5%8A%A0%E9%9F%B3%E6%95%88diy-soundspowered-by-leo204_lky)
-* 6.[加入我们](https://github.com/nclmredtea/NAHGN#6%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC)
-	* [Discord服务器邀请链接](https://discord.gg/pjhdvhT)
-	* [QQ群邀请链接](https://jq.qq.com/?_wv=1027&k=0i1ucjiO)
-* 6.[相关网址推荐Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
-## 1.服务器信息
-### 服务器简介
-### NAHGN的wiki正在完善，更多信息可以查看wiki！
-NCLM AND HNR Group Network(群组网络),指NCLM团队和HNR团队共同组建的群组服务器，服务器目前主要由三个服务器构成Server1(s1)是创造服，也是最主要的服务器，其中的NAH世界为主要世界，是服务器Ver.0.1版本时，由NCLM存档和HNR存档合并而来，汇聚现玩家团体大量心血在内。Server2(s2)是生存服，只有当有需求时才开服，拥有少量插件，一般情况下存档不做保存。Server3(s3)是战争服，是最近新兴的一个服务器，其主要插件为枪械插件和战争插件，玩家可以在其中相互合作打怪，亦或者是相互PVP来一次N+1方的战争,主要世界有T-30（作者提供）和The_End_of_NAH（自行制作）
+* 2.[NAHGN's Changes Log](https://github.com/nclmredtea/NAHGN#2%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+	* [Changes Log](https://github.com/nclmredtea/NAHGN#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+	* [Plan In The Future](https://github.com/nclmredtea/NAHGN#%E6%9C%AA%E6%9D%A5%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92)
+* 3.[How To Propose Suggestions And Feedback BUGs](https://github.com/nclmredtea/NAHGN#3%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AE%AE%E5%92%8C%E5%8F%8D%E9%A6%88bug)
+* 4.[NAHGN's Related Resources Downloads](https://github.com/nclmredtea/NAHGN#4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD)
+	* [NAHGN's Resourcepacks](https://github.com/nclmredtea/NAHGN#%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%E5%8C%85resourcepacks)
+	* [NAHGN's Integration Package](https://github.com/nclmredtea/NAHGN/blob/master/README.md#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B4%E5%90%88%E5%8C%85)
+* 5.[DIY Sounds(Powered By Leo204_LKY)](https://github.com/nclmredtea/NAHGN#5%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B7%BB%E5%8A%A0%E9%9F%B3%E6%95%88diy-soundspowered-by-leo204_lky)
+* 6.[Join Us！](https://github.com/nclmredtea/NAHGN#6%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC)
+	* [Discord Link](https://discord.gg/pjhdvhT)
+	* [QQ Link](https://jq.qq.com/?_wv=1027&k=0i1ucjiO)
+* 6.[Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
+## 1.NAHGN's Infomations
+### NAHGN's Brief Introduction
+### NAHGN's wiki improving now，more infomations can be found in wiki！
+NCLM AND HNR Group Network.It refers to the group network jointly established by NCLM team and HNR team.At present, the group network is mainly composed of three servers.Server1(s1) is creative server,also the most important server.The world NAH is mainly world in s1.是服务器Ver.0.1版本时，由NCLM存档和HNR存档合并而来，汇聚现玩家团体大量心血在内。Server2(s2)是生存服，只有当有需求时才开服，拥有少量插件，一般情况下存档不做保存。Server3(s3)是战争服，是最近新兴的一个服务器，其主要插件为枪械插件和战争插件，玩家可以在其中相互合作打怪，亦或者是相互PVP来一次N+1方的战争,主要世界有T-30（作者提供）和The_End_of_NAH（自行制作）
 ### 服务器IP
 #### Java Editon Server IP
 #### 服务器列表:Server1(s1)创造服 Server2(s2)生存服 Server3(s3)战争服
