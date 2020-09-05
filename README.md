@@ -1,6 +1,6 @@
 # NAHGN
 NCLM AND HNR Group Network(群组网络)<br>[![NAHGN.png](https://i.postimg.cc/Y90c57ZJ/NAHGN.png)](https://postimg.cc/DW9YG92g)<br>
-[![版本.png](https://i.postimg.cc/jj0NB50f/image.png)](https://postimg.cc/cvhrndJ1)[![Github状态.png](https://i.postimg.cc/c1g31wx3/Github.png)](https://postimg.cc/vDyT3168)[![计划.png](https://i.postimg.cc/25SqsB9V/image.png)](https://postimg.cc/Xrt7FXbb)
+![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.03-green?style=for-the-badge)![Github状态.png](https://img.shields.io/badge/Open%20Issues-0-green?style=for-the-badge)![计划.png](https://img.shields.io/badge/Projects-0-green?style=for-the-badge)
 ## 前言
 设立本项目的目的为，公示服务器近期修改内容（更快的发布更新信息），玩家们可以更好的提出意见和反馈BUG以及推广服务器等<br>
 本项目可以在所有者(NCLMREDTEA)同意的情况下进行公开修改，本项目由NAHGN玩家共同所有，NCLMREDTEA对其有最终解释权
