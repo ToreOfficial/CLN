@@ -33,43 +33,42 @@ NCLM AND HNR Group Network.It refers to the group network jointly established by
 * ①cn-zj-bgp.sakurafrp.com:56495
 * ②cn-zz-bgp-2.sakurafrp.com:10364
 #### Bedblock Editon Server IP
-#### Now you have realized the interworking between be and JE，you can use mobile phone,win10 or host to login the main server.Part of plugins maybe cannot support well.Ip and port are separate in BE.
+#### Now you can realized the interworking between be and JE，you can use mobile phone,win10 or host to login the main server.Part of plugins maybe cannot support well.Ip and port are separate in BE.
 * Game Version：1.16.20
 * Free to download the BE Version in Android:https://minecraftpe-mods.com/
 * 43.249.192.24:27721
 #### Dynmap IP
-#### 直接在浏览器输入此ip即可，由于是国外ip，不稳定，会随时更换
+#### Just input this ip in your browser.Because of the address of ip,it's instable and it will be replaced at any time.
 * us-la-kr.sakurafrp.com:61886
-#### 更新服务器Update Server
-#### 服务器现已将自动更新服务整合至整合包,最新整合包可以在GitHub上下载
-* cn-zz-bgp-2.sakurafrp.com:59811（无需理会仅做备份)
+#### Update Server
+#### Now NAHGN's integration package will auto update when you open it.You can download the newest integration package on the GitHub.
+* cn-zz-bgp-2.sakurafrp.com:59811（Don't care, just backup.)
 ## 2.NAHGN's Changes Log
 ### Changes Log
-注:Ver.0.1前不做记录,本文本于Ver.0.25后开始记录，Ver.0.25前做简要记录
-
+PS:This text will be record after Ver0.25，just make a brief record before it and no record before Ver0.1.
 Ver0.1<br>
-* 由NAHOS正式更名为NAHGN（NCLM AND HNR Group Network),服务器由单独服转为群组服，更换大部分IP
+* Change the name of NAHOS to NAHGN（NCLM AND HNR Group Network）and change the dedicated server to group network.Changes the most of IPs.
 
 Ver0.2<br>
-* 正式实现BE和JE的互通，成为伪双通服（不是真正意义上的双通服），更新相应端口
+* Formal realization the interworking between be and JE and changes IPs.
 
 Ver0.22<br>
-* 新增枪械插件
+* Added the Gun plugin.
 
 Ver0.25<br>
-* 你现在可以在Leo204_LKY的NAHGN-Sound-Pack项目中提交你想要自定义的音效了
+* Now you can DIY sounds if you want at Leo204_LKY's NAHGN-Sound-Pack project.
 
 Ver0.26<br>
-* 新增了Server4备用服,新增了函数绘制地图以及更新相应资源包下载地址，更新了整合包
+* Added the Server4(s4) 'standby server'.Added a function rendering map in s4 and update corresponding download addresses.Update the integration package.
 
 Ver0.27<br>
-* 主要新增了粘液科技插件(类似于工业那样的mod),Matrix反作弊插件,KWARK优化插件,Gsit姿势插件(坐下,躺下,趴下),新增更新服务器
+* Mainly added Slimefun Plugin(Same of IC2 in plugins),Matrix anti cheating plugin,KWARK optimize plug and Gsit pose plugin(Sit down, lie down, get down).Added Update Server.
 
 Ver0.28<br>
-* 更新所有服务器版本至1.16.2,原版更新内容可以查看[官方wiki](https://wiki.biligame.com/mc/Java%E7%89%881.16.2)
+* Update the version of server to 1.16.2.You can see the update content at [officialwiki](https://wiki.biligame.com/mc/Java%E7%89%881.16.2)
 ### Plan In The Future
-#### 如有其他建议，可以通过Issues反馈（如何反馈请看模块3）
-- [ ] 新增高版本模组子服
+#### If you have another idea,you can propose suggestions by Issues.（Please look the part of 3 if you don't not how to propose）
+- [ ] Add a mod server in the high version
 - [ ] 可以在游戏内观看视频
 - [ ] 通过插件增加服务器可玩性
 - [ ] 通过插件增加服务器可靠性
