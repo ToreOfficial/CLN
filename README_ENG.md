@@ -25,19 +25,19 @@ You can make changes of the project with NCLMREDTEA's agree.The project has owne
 ## 1.NAHGN's Infomations
 ### NAHGN's Brief Introduction
 ### NAHGN's wiki improving now，more infomations can be found in wiki！
-NCLM AND HNR Group Network.It refers to the group network jointly established by NCLM team and HNR team.At present, the group network is mainly composed of three servers.Server1(s1) is creative server,also the most important server.The world NAH is mainly world in s1.是服务器Ver.0.1版本时，由NCLM存档和HNR存档合并而来，汇聚现玩家团体大量心血在内。Server2(s2)是生存服，只有当有需求时才开服，拥有少量插件，一般情况下存档不做保存。Server3(s3)是战争服，是最近新兴的一个服务器，其主要插件为枪械插件和战争插件，玩家可以在其中相互合作打怪，亦或者是相互PVP来一次N+1方的战争,主要世界有T-30（作者提供）和The_End_of_NAH（自行制作）
+NCLM AND HNR Group Network.It refers to the group network jointly established by NCLM team and HNR team.At present, the group network is mainly composed of three servers.Server1(s1) is creative server,also the most important server.The world NAH is mainly world in s1.When the server is in version 0.1,combined from world NCLM and world HNR,gather a lot of hard work from the players.Server2(s2) is survival server,it just open only when there is a need and it just has few plugins.Do not save in general.Server3(s3) is war server,the gun plugin and the war plugin is the mainly plugins in it,you can pve with other player or also can pvp with other players.World T-30(Provide By Plugin author) and world The_End_of_NAH(Provide By NCLMREDTEA) are both the mainly world in s3.
 ### NAHGN's IP
 #### Java Editon Server IP
-#### 服务器列表:Server1(s1)创造服 Server2(s2)生存服 Server3(s3)战争服
-* 游戏版本：1.16.2
-* ①cn-zj-bgp.sakurafrp.com:56495(镇江）
-* ②cn-zz-bgp-2.sakurafrp.com:10364（枣庄）
+#### List of Server:Server1(s1)creative server Server2(s2)survival server Server3(s3)war server
+* Game Version：1.16.2
+* ①cn-zj-bgp.sakurafrp.com:56495
+* ②cn-zz-bgp-2.sakurafrp.com:10364
 #### Bedblock Editon Server IP
-#### 现在已经实现BE和JE的互通，可以在手机，win10端或主机端登录主服务器，部分插件可能不完全支持,BE版MC端口与IP是分开写的
-* 游戏版本：1.16.20
-* 安卓端BE版免费下载地址:https://minecraftpe-mods.com/
+#### Now you have realized the interworking between be and JE，you can use mobile phone,win10 or host to login the main server.Part of plugins maybe cannot support well.Ip and port are separate in BE.
+* Game Version：1.16.20
+* Free to download the BE Version in Android:https://minecraftpe-mods.com/
 * 43.249.192.24:27721
-#### Dynmap(服务器动态地图)IP
+#### Dynmap IP
 #### 直接在浏览器输入此ip即可，由于是国外ip，不稳定，会随时更换
 * us-la-kr.sakurafrp.com:61886
 #### 更新服务器Update Server
