@@ -1,3 +1,4 @@
+## 如果你是英语用户，请前往README_ENG.md查看英文介绍IF YOU ARE ENGLISH USERS,YOU CAN VIEW INTRODUCTION IN ENGLISH IN README_ENG.md.
 # NAHGN
 NCLM AND HNR Group Network(群组网络)<br>[![NAHGN.png](https://i.postimg.cc/Y90c57ZJ/NAHGN.png)](https://postimg.cc/DW9YG92g)<br>
 ![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.03-green?style=for-the-badge)![Github状态.png](https://img.shields.io/badge/Open%20Issues-0-green?style=for-the-badge)![计划.png](https://img.shields.io/badge/Projects-2-green?style=for-the-badge)
