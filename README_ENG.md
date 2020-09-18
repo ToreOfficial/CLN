@@ -1,7 +1,6 @@
 ## 如果你是中文用户，请前往README.md查看中文介绍IF YOU ARE CHINESE USERS,YOU CAN VIEW INTRODUCTION IN CHINESE IN README.md.
 # NAHGN
 NCLM AND HNR Group Network<br>[![NAHGN.png](https://i.postimg.cc/Y90c57ZJ/NAHGN.png)](https://postimg.cc/DW9YG92g)<br>
-[![版本.png](https://i.postimg.cc/jj0NB50f/image.png)](https://postimg.cc/cvhrndJ1)[![Github状态.png](https://i.postimg.cc/c1g31wx3/Github.png)](https://postimg.cc/vDyT3168)[![计划.png](https://i.postimg.cc/25SqsB9V/image.png)](https://postimg.cc/Xrt7FXbb)
 ## Preface
 The purpose of the project is show the recently changes of NAHGN(Release changes of NAHGN more quickly)Players can propose suggestions,feedback BUGs and extension the Server.<br>
 You can make changes of the project with NCLMREDTEA's agree.The project has owned by all players and NCLMREDTEA has the final right to explain it.
