@@ -69,41 +69,43 @@ Ver0.28<br>
 ### Plan In The Future
 #### If you have another idea,you can propose suggestions by Issues.（Please look the part of 3 if you don't not how to propose）
 - [ ] Add a mod server in the high version
-- [ ] 可以在游戏内观看视频
-- [ ] 通过插件增加服务器可玩性
-- [ ] 通过插件增加服务器可靠性
+- [ ] Can watch viedos in server
+- [ ] Increase server playability by adding plugins
+- [ ] Increase server reliability by adding plugins
 ## 3.How To Propose Suggestions And Feedback BUGs
-傻瓜式:[点击这里](https://github.com/nclmredtea/NAHGN/issues/new/choose)<br>
-或者转到`Issues`然后点击`New issue`按钮创建，然后在`Leave a comment`输入框输入反馈内容<br>
-### 格式
+①Goofy:[Cilck this!](https://github.com/nclmredtea/NAHGN/issues/new/choose)<br>
+②Turn to`Issues`and cilck the`New issue`to create.Then input feedback content in`Leave a comment`<br>
+### Format
 * Title<br>
-	* [BUG/建议/其他]内容<br>
-	* 例:`[BUG]游戏内XXX插件无法使用`<br>
+	* [BUG/Suggestion/Other]content<br>
+	* Example:`[BUG]XXX plugin doesn't work in game`<br>
 * Leave a comment<br>
-	* 无特定要求，尽量描述出问题/意见内容
+	* No specific requirements, try to describe the problems / comments.
 ## 4.NAHGN's Related Resources Downloads
-### 服务器新增更新服务器，相关资源已自动整合至Ver1.02整合包，以后自动更新,无需再下载一次
+### Added a new Update Server,related resources were integration in integration package.It will be auto update and no need to download again.
 ### NAHGN's Resourcepacks
-#### 虽然服务器自带自动下载资源包功能，但是由于在中国，下载失败率极高，容易卡在界面，故只能手动安装资源包
-* 枪械插件(QualityArmory)资源包下载地址:https://wws.lanzous.com/iQCUffk8nub
-* 战争服插件(Withered)资源包下载地址:https://wws.lanzous.com/iBwssfpxeli
-* 创造服车辆资源包下载地址:https://wws.lanzous.com/ivxIcfpxepc
-	* (PS:此资源包需要解压，解压后放入resourcepacks文件夹)
-* NAHGN音效包下载地址:https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases
+#### Because of download failure rate is very high,so you should install resource packs manually.
+* Gun plugin(QualityArmory)'s resourcepacks download address:https://wws.lanzous.com/iQCUffk8nub
+* War plugin(Withered)'s resourcepacks download address:https://wws.lanzous.com/iBwssfpxeli
+* Car plugin's resourcepacks download address:https://wws.lanzous.com/ivxIcfpxepc
+	* (PS:This resourcepacks must be decompression and take it to the resourcepacks file after it.)
+* NAHGN-Sound-Pack download address:https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases
 	* (Powered By Leo204_LKY)
-* 函数绘制配套资源包下载地址:https://wws.lanzous.com/iK4rKfw2r4f
-#### 材质包安装方法：下载压缩包后，直接放入游戏根目录的resourcepacks文件夹，不用解压（车辆材质包例外)
+* Function rendering's resourcepacks download address:https://wws.lanzous.com/iK4rKfw2r4f
+#### The way to install resourcepacks：Put it directly to the resourcepacks file when you downloading completed.
 ### NAHGN's Integration Package
-* 您可以在右侧的Releases内找到最新上传的服务器整合包，其内容包括Optifine,常用版本整合以及服务器的必须物品
+* Your can find the newest integration package in the Releases.Its contents include Optifine,common versions and necessary items of server.
 ## 5.DIY Sounds(Powered By Leo204_LKY)
-* Leo开发的NAHGN音效包支持自定义添加音效，如果有需要，可以提供音源给Leo并在GitHub上申请（各种音效都可以）<br>
-申请/提供地址:https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues
-	* 请在申请前在上述页面查看申请规则
+* NAHGN-Sound-Pack written by Leo204_LKY support DIY Sound in server.You can provide sound source to Leo204_LKY and apply in Github.(All kinds of sound effects are OK.）<br>
+Application and provision's address:https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues
+	* Please check the application rules on the above page before applying.
 ## 6.Join Us！
 ### Discord Link
 * https://discord.gg/pjhdvhT
 ### QQ Link
 * https://jq.qq.com/?_wv=1027&k=0i1ucjiO
+### Kaiheila Link
+* https://kaihei.co/LiBrqZ
 ## 7.Website Recommendation
 * MCBBS:https://www.mcbbs.net/
 * SakuraFrp:https://www.natfrp.com/
