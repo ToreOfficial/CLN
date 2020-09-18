@@ -1,4 +1,4 @@
-## SORRY,THIS TEXT IS STILL EDITING!
+## 如果你是中文用户，请前往README.md查看中文介绍IF YOU ARE CHINESE,YOU CAN VIEW INTRODUCTION IN CHINESE IN README.md.
 # NAHGN
 NCLM AND HNR Group Network<br>[![NAHGN.png](https://i.postimg.cc/Y90c57ZJ/NAHGN.png)](https://postimg.cc/DW9YG92g)<br>
 [![版本.png](https://i.postimg.cc/jj0NB50f/image.png)](https://postimg.cc/cvhrndJ1)[![Github状态.png](https://i.postimg.cc/c1g31wx3/Github.png)](https://postimg.cc/vDyT3168)[![计划.png](https://i.postimg.cc/25SqsB9V/image.png)](https://postimg.cc/Xrt7FXbb)
@@ -9,19 +9,20 @@ You can make changes of the project with NCLMREDTEA's agree.The project has owne
 * 0.[Contents](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#0contents)
 * 1.[NAHGN's Infomations](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#1nahgns-infomations)
 	* [NAHGN's Brief Introduction](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#nahgns-brief-introduction)
-	* [NAHGN's IP]()
-* 2.[NAHGN's Changes Log]()
-	* [Changes Log]()
-	* [Plan In The Future]()
-* 3.[How To Propose Suggestions And Feedback BUGs]()
-* 4.[NAHGN's Related Resources Downloads]()
-	* [NAHGN's Resourcepacks]()
-	* [NAHGN's Integration Package]()
-* 5.[DIY Sounds(Powered By Leo204_LKY)]()
-* 6.[Join Us！]()
+	* [NAHGN's IP](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#nahgns-ip)
+* 2.[NAHGN's Changes Log](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#2nahgns-changes-log)
+	* [Changes Log](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#changes-log)
+	* [Plan In The Future](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#plan-in-the-future)
+* 3.[How To Propose Suggestions And Feedback BUGs](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#3how-to-propose-suggestions-and-feedback-bugs)
+* 4.[NAHGN's Related Resources Downloads](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#4nahgns-related-resources-downloads)
+	* [NAHGN's Resourcepacks](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#nahgns-resourcepacks)
+	* [NAHGN's Integration Package](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#nahgns-integration-package)
+* 5.[DIY Sounds(Powered By Leo204_LKY)](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#5diy-soundspowered-by-leo204_lky)
+* 6.[Join Us！](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#6join-us)
 	* [Discord Link](https://discord.gg/pjhdvhT)
 	* [QQ Link](https://jq.qq.com/?_wv=1027&k=0i1ucjiO)
-* 6.[Website Recommendation]()
+	* [Kaiheila Link](https://kaihei.co/LiBrqZ)
+* 6.[Website Recommendation](https://github.com/nclmredtea/NAHGN/blob/master/README_ENG.md#7website-recommendation)
 ## 1.NAHGN's Infomations
 ### NAHGN's Brief Introduction
 ### NAHGN's wiki improving now，more infomations can be found in wiki！
