@@ -21,6 +21,7 @@ NCLM AND HNR Group Network(群组网络)<br>[![NAHGN.png](https://i.postimg.cc/Y
 * 6.[加入我们](https://github.com/nclmredtea/NAHGN#6%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC)
 	* [Discord服务器邀请链接](https://discord.gg/pjhdvhT)
 	* [QQ群邀请链接](https://jq.qq.com/?_wv=1027&k=0i1ucjiO)
+	* [开黑啦邀请链接](https://kaihei.co/LiBrqZ)
 * 6.[相关网址推荐Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
 ## 1.服务器信息
 ### 服务器简介
@@ -108,6 +109,8 @@ Ver0.28.1<br>
 * https://discord.gg/pjhdvhT
 ### QQ群邀请链接
 * https://jq.qq.com/?_wv=1027&k=0i1ucjiO
+### 开黑啦邀请链接
+* https://kaihei.co/LiBrqZ
 ## 7.相关网址推荐Website Recommendation
 * MCBBS我的世界中文论坛:https://www.mcbbs.net/
 * SakuraFrp樱花映射:https://www.natfrp.com/
