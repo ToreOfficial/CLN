@@ -29,12 +29,12 @@ NCLM AND HNR Group Network.It refers to the group network jointly established by
 ### NAHGN's IP
 #### Java Editon Server IP
 #### List of Server:Server1(s1)creative server Server2(s2)survival server Server3(s3)war server
-* Game Version：1.16.2
+* Game Version：1.16.3
 * ①cn-zj-bgp.sakurafrp.com:56495
 * ②cn-zz-bgp-2.sakurafrp.com:10364
 #### Bedblock Editon Server IP
 #### Now you can realized the interworking between be and JE，you can use mobile phone,win10 or host to login the main server.Part of plugins maybe cannot support well.Ip and port are separate in BE.
-* Game Version：1.16.20
+* Game Version：1.16.30
 * Free to download the BE Version in Android:https://minecraftpe-mods.com/
 * 43.249.192.24:27721
 #### Dynmap IP
@@ -66,6 +66,9 @@ Ver0.27<br>
 
 Ver0.28<br>
 * Update the version of server to 1.16.2.You can see the update content at [officialwiki](https://wiki.biligame.com/mc/Java%E7%89%881.16.2)
+
+Ver0.29<br>
+* Update the server version to 1.16.3.New added the NetherView plugin.
 ### Plan In The Future
 #### If you have another idea,you can propose suggestions by Issues.（Please look the part of 3 if you don't not how to propose）
 - [ ] Add a mod server in the high version
