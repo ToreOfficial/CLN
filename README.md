@@ -1,7 +1,7 @@
 ## 如果你是英语用户，请前往README_ENG.md查看英文介绍IF YOU ARE ENGLISH USERS,YOU CAN VIEW INTRODUCTION IN ENGLISH IN README_ENG.md.
 # NAHGN
 NCLM AND HNR Group Network(群组网络)<br>[![NAHGN.png](https://i.postimg.cc/Y90c57ZJ/NAHGN.png)](https://postimg.cc/DW9YG92g)<br>
-![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.03-green?style=for-the-badge)![Github状态.png](https://img.shields.io/badge/Open%20Issues-0-green?style=for-the-badge)![计划.png](https://img.shields.io/badge/Projects-2-green?style=for-the-badge)
+![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.04-green?style=for-the-badge)![Github状态.png](https://img.shields.io/badge/Open%20Issues-0-green?style=for-the-badge)![计划.png](https://img.shields.io/badge/Projects-2-green?style=for-the-badge)
 ## 前言
 设立本项目的目的为，公示服务器近期修改内容（更快的发布更新信息），玩家们可以更好的提出意见和反馈BUG以及推广服务器等<br>
 本项目可以在所有者(NCLMREDTEA)同意的情况下进行公开修改，本项目由NAHGN玩家共同所有，NCLMREDTEA对其有最终解释权
@@ -30,12 +30,12 @@ NCLM AND HNR Group Network(群组网络),指NCLM团队和HNR团队共同组建�
 ### 服务器IP
 #### Java Editon Server IP
 #### 服务器列表:Server1(s1)创造服 Server2(s2)生存服 Server3(s3)战争服
-* 游戏版本：1.16.2
+* 游戏版本：1.16.3
 * ①cn-zj-bgp.sakurafrp.com:56495(镇江）
 * ②cn-zz-bgp-2.sakurafrp.com:10364（枣庄）
 #### Bedblock Editon Server IP
 #### 现在已经实现BE和JE的互通，可以在手机，win10端或主机端登录主服务器，部分插件可能不完全支持,BE版MC端口与IP是分开写的
-* 游戏版本：1.16.20
+* 游戏版本：1.16.30
 * 安卓端BE版免费下载地址:https://minecraftpe-mods.com/
 * 43.249.192.24:27721
 #### Dynmap(服务器动态地图)IP
