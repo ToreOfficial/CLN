@@ -1,7 +1,7 @@
 ## 如果你是英语用户，请前往README_ENG.md查看英文介绍IF YOU ARE ENGLISH USERS,YOU CAN VIEW INTRODUCTION IN ENGLISH IN README_ENG.md.
 # NAHGN
 NCLM AND HNR Group Network(群组网络)<br>[![NAHGN.png](https://i.postimg.cc/Y90c57ZJ/NAHGN.png)](https://postimg.cc/DW9YG92g)<br>
-![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.04-green?style=for-the-badge)![Github状态.png](https://img.shields.io/badge/Open%20Issues-0-green?style=for-the-badge)![计划.png](https://img.shields.io/badge/Projects-2-green?style=for-the-badge)
+![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.04-green?style=for-the-badge)![Github状态.png](https://img.shields.io/badge/Open%20Issues-0-yellow?style=for-the-badge)![计划.png](https://img.shields.io/badge/Projects-3-blue?style=for-the-badge)
 ## 前言
 设立本项目的目的为，公示服务器近期修改内容（更快的发布更新信息），玩家们可以更好的提出意见和反馈BUG以及推广服务器等<br>
 本项目可以在所有者(NCLMREDTEA)同意的情况下进行公开修改，本项目由NAHGN玩家共同所有，NCLMREDTEA对其有最终解释权
@@ -14,15 +14,16 @@ NCLM AND HNR Group Network(群组网络)<br>[![NAHGN.png](https://i.postimg.cc/Y
 	* [更新日志](https://github.com/nclmredtea/NAHGN#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 	* [未来更新计划](https://github.com/nclmredtea/NAHGN#%E6%9C%AA%E6%9D%A5%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92)
 * 3.[如何提交建议和反馈BUG](https://github.com/nclmredtea/NAHGN#3%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AE%AE%E5%92%8C%E5%8F%8D%E9%A6%88bug)
-* 4.[服务器相关资源下载](https://github.com/nclmredtea/NAHGN#4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD)
+* 4.[服务器计划]()
+* 5.[服务器相关资源下载](https://github.com/nclmredtea/NAHGN#4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD)
 	* [服务器资源包Resourcepacks](https://github.com/nclmredtea/NAHGN#%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%E5%8C%85resourcepacks)
 	* [服务器整合包](https://github.com/nclmredtea/NAHGN/blob/master/README.md#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B4%E5%90%88%E5%8C%85)
-* 5.[自定义添加音效DIY Sounds(Powered By Leo204_LKY)](https://github.com/nclmredtea/NAHGN#5%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B7%BB%E5%8A%A0%E9%9F%B3%E6%95%88diy-soundspowered-by-leo204_lky)
-* 6.[加入我们](https://github.com/nclmredtea/NAHGN#6%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC)
+* 6.[自定义添加音效DIY Sounds(Powered By Leo204_LKY)](https://github.com/nclmredtea/NAHGN#5%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B7%BB%E5%8A%A0%E9%9F%B3%E6%95%88diy-soundspowered-by-leo204_lky)
+* 7.[加入我们](https://github.com/nclmredtea/NAHGN#6%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC)
 	* [Discord服务器邀请链接](https://discord.gg/pjhdvhT)
 	* [QQ群邀请链接](https://jq.qq.com/?_wv=1027&k=0i1ucjiO)
 	* [开黑啦邀请链接](https://kaihei.co/LiBrqZ)
-* 6.[相关网址推荐Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
+* 8.[相关网址推荐Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
 ## 1.服务器信息
 ### 服务器简介
 ### NAHGN的wiki正在完善，更多信息可以查看wiki！
@@ -76,7 +77,7 @@ Ver0.29<br>
 * 更新服务器版本至1.16.3,增加NetherView(突破次元壁!)插件
 ### 未来更新计划
 #### 如有其他建议，可以通过Issues反馈（如何反馈请看模块3）
-- [ ] 新增高版本模组子服
+- [x] 新增高版本模组服
 - [ ] 可以在游戏内观看视频
 - [ ] 通过插件增加服务器可玩性
 - [ ] 通过插件增加服务器可靠性
@@ -89,7 +90,16 @@ Ver0.29<br>
 	* 例:`[BUG]游戏内XXX插件无法使用`<br>
 * Leave a comment<br>
 	* 无特定要求，尽量描述出问题/意见内容
-## 4.服务器相关资源下载
+## 4.[服务器相关计划](https://github.com/nclmredtea/NAHGN/projects)
+### [你寻我装计划](https://github.com/nclmredtea/NAHGN/projects/1)
+为了更加迎合玩家们的口味，正式推出你寻我装计划! 该计划是让玩家们在各类网站上寻找他们心仪的插件，然后提交至GitHub的Issues，然后经过服主检验，检验合格的插件将正式加入服务器插件豪华套餐!
+<br>该计划促进了服主和玩家们的交流，增加了服务器的可玩性，为了服务器生态的建设，请大家积极参与！
+### [服务器对外公开计划](https://github.com/nclmredtea/NAHGN/projects/2)
+此项目为服务器的长期计划之一，将会在一切条件准备就绪后进行服务器公开的决定，此项目用于报告服务器公开的进展。
+### [Dev开发日志](https://github.com/nclmredtea/NAHGN/projects/3)
+这是一个对于新版本服务器内容的前瞻计划！
+#### 请点击相应标题跳转至相应计划,也可以点击主标题跳转至计划页面.
+## 5.服务器相关资源下载
 ### 服务器新增更新服务器，相关资源已自动整合至Ver1.02整合包，以后自动更新,无需再下载一次
 ### 服务器资源包Resourcepacks
 #### 虽然服务器自带自动下载资源包功能，但是由于在中国，下载失败率极高，容易卡在界面，故只能手动安装资源包
@@ -103,18 +113,18 @@ Ver0.29<br>
 #### 材质包安装方法：下载压缩包后，直接放入游戏根目录的resourcepacks文件夹，不用解压（车辆材质包例外)
 ### 服务器整合包
 * 您可以在右侧的Releases内找到最新上传的服务器整合包，其内容包括Optifine,常用版本整合以及服务器的必须物品
-## 5.自定义添加音效DIY Sounds(Powered By Leo204_LKY)
+## 6.自定义添加音效DIY Sounds(Powered By Leo204_LKY)
 * Leo开发的NAHGN音效包支持自定义添加音效，如果有需要，可以提供音源给Leo并在GitHub上申请（各种音效都可以）<br>
 申请/提供地址:https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues
 	* 请在申请前在上述页面查看申请规则
-## 6.加入我们
+## 7.加入我们
 ### Discord服务器邀请链接
 * https://discord.gg/pjhdvhT
 ### QQ群邀请链接
 * https://jq.qq.com/?_wv=1027&k=0i1ucjiO
 ### 开黑啦邀请链接
 * https://kaihei.co/LiBrqZ
-## 7.相关网址推荐Website Recommendation
+## 8.相关网址推荐Website Recommendation
 * MCBBS我的世界中文论坛:https://www.mcbbs.net/
 * SakuraFrp樱花映射:https://www.natfrp.com/
 * lanzou蓝奏云:https://www.lanzou.com/
