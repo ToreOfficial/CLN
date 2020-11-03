@@ -14,7 +14,7 @@ NCLM AND HNR Group Network(群组网络)<br>[![NAHGN.png](https://i.postimg.cc/Y
 	* [更新日志](https://github.com/nclmredtea/NAHGN#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 	* [未来更新计划](https://github.com/nclmredtea/NAHGN#%E6%9C%AA%E6%9D%A5%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92)
 * 3.[如何提交建议和反馈BUG](https://github.com/nclmredtea/NAHGN#3%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AE%AE%E5%92%8C%E5%8F%8D%E9%A6%88bug)
-* 4.[服务器计划]()
+* 4.[服务器计划](https://github.com/nclmredtea/NAHGN#4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E8%AE%A1%E5%88%92)
 * 5.[服务器相关资源下载](https://github.com/nclmredtea/NAHGN#4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD)
 	* [服务器资源包Resourcepacks](https://github.com/nclmredtea/NAHGN#%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%E5%8C%85resourcepacks)
 	* [服务器整合包](https://github.com/nclmredtea/NAHGN/blob/master/README.md#%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B4%E5%90%88%E5%8C%85)
