@@ -1,10 +1,10 @@
-## IF YOU ARE ENGLISH USERS,YOU CAN VIEW INTRODUCTION IN ENGLISH IN README_ENG.md.
 # CLN
 Chasing Light Network(光启网络)<br>[![CLN.png](https://i.postimg.cc/Y90c57ZJ/NAHGN.png)](https://postimg.cc/DW9YG92g)<br>
-![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.04-green?style=for-the-badge)![Github状态.png](https://img.shields.io/badge/Open%20Issues-0-yellow?style=for-the-badge)![计划.png](https://img.shields.io/badge/Projects-3-blue?style=for-the-badge)
+![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.4.0-green?style=for-the-badge)
 ## 前言
-设立本项目的目的为，公示服务器近期修改内容（更快的发布更新信息），玩家们可以更好的提出意见和反馈BUG以及推广服务器等<br>
-本项目可以在所有者(NCLMREDTEA)同意的情况下进行公开修改，本项目由NAHGN玩家共同所有，NCLMREDTEA对其有最终解释权
+该项目旨在发布版本更新，公示详细的更新内容，以及留存服务器整合包的历史版本<br>
+玩家们也可以更好的提出意见和反馈BUG以及推广服务器等
+
 ## 0.目录
 * 0.[目录](https://github.com/nclmredtea/NAHGN#0%E7%9B%AE%E5%BD%95)
 * 1.[服务器信息](https://github.com/nclmredtea/NAHGN#1%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF)
@@ -26,27 +26,21 @@ Chasing Light Network(光启网络)<br>[![CLN.png](https://i.postimg.cc/Y90c57ZJ
 * 8.[相关网址推荐Website Recommendation](https://github.com/nclmredtea/NAHGN#7%E7%9B%B8%E5%85%B3%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90website-recommendation)
 ## 1.服务器信息
 ### 服务器简介
-### CLN的wiki正在完善，更多信息可以查看wiki！
-Chasing Light Network(光启网络),指ToreOfficial和CLN全体成员共同组建的群组服务器，服务器目前主要由一个创造模组服服务器构成。
+### CLN的wiki可能将于未来建立！
+Chasing Light Network Minecraft Server(光启网络我的世界服务器),是由ToreOfficial开启的Minecraft创造模组服务器<br>
+游戏地图由游戏成员所共有，主要由时空市、光启市和瑞金（暂名）市共同组成
 #### Java Editon Server IP
-#### 服务器列表:Server1(s1)模组服
-* 游戏版本：1.18.1
-* IP List:
-* ①未公开
+#### 服务器列表:创造模组服
+* 游戏版本：1.20.1
+* 如有加入意愿，请用Issues进行报备
 
-#### Bedblock Editon Server IP（本计划暂时取消）
-#### 现在已经实现BE和JE的互通，可以在手机，win10端或主机端登录主服务器，部分插件可能不完全支持,BE版MC端口与IP是分开写的
-* 游戏版本：未知
-* 安卓端BE版免费下载地址:https://minecraftpe-mods.com/
-* IP List:
-* 暂时关闭
 #### Dynmap(服务器动态地图)IP
 #### 直接在浏览器输入此ip即可，由于是国外ip，不稳定，会随时更换
 * IP List:
 * 暂时关闭
-#### 更新服务器Update Server（本计划取消）
+#### 更新服务器Update Server
 #### 服务器现已将自动更新服务整合至整合包,最新整合包可以在GitHub上下载
-* 因技术原因已取消
+* 服务器现已实现自动更新，理论上只需下载一次客户端整合包即可实现后续更新
 ## 2.服务器更新日志
 ### 更新日志
 注:Ver.0.1前不做记录,本文本于Ver.0.25后开始记录，Ver.0.25前做简要记录
@@ -80,12 +74,106 @@ Ver0.29<br>
 
 Ver0.31<br>
 * 1.16.3版本插件群组服务器转变为模组独立服务器，删除大部分插件并替换为模组，更换全部IP，暂时关闭Dynmap、BE2JE功能，永久性关闭更新服务器，整合包需要重新下载，材质包需求更新。
-### 未来更新计划
-#### 如有其他建议，可以通过Issues反馈（如何反馈请看模块3）
-- [x] 新增高版本模组服
-- [ ] 可以在游戏内观看视频
-- [ ] 通过插件增加服务器可玩性
-- [ ] 通过插件增加服务器可靠性
+
+Ver 1.0<br>
+* ①将游戏版本更新至1.20.1<br>
+* ②将模组加载器更换为Fabric，并更换、简化模组<br>
+
+Ver 1.1<br>
+* ①-移除了模组[螃蟹的MTR扩展]，因为其部分方块易诱发严重BUG<br>
+* ②+添加了模组[旅行地图]、[JCM(MTR附属)]、[天津铁路(MTR附属)]和[暗访谈的Fabric道路]及其前置模组<br>
+* ③+添加并启用了部分资源包和MTR铁路追加包<br>
+
+Ver 1.2<br>
+* ①更新游戏版本至1.20.4<br>
+* ②拥有全新的模组列表，具体可至游戏内查看<br>
+* ③v1.1版本与v1.2共存<br>
+
+Ver 1.2.1<br>
+* ①-删除了ChineseFestival模组，因为其可能导致崩溃<br>
+* ②-暂时弃用了导致服务器卡顿的MTR追加包<br>
+* ③-删除了无用和重复的模组<br>
+* ④+增加了离线模式对皮肤的支持<br>
+* ⑤+添加了额外的MTR追加包和光影<br>
+
+Ver 1.2.2<br>
+* ①+新增了“[SVC]简单的语音聊天”模组，现在玩家可以在游戏内进行语音了，在游戏内使用V键进行配置<br>
+* ②+新增了“[MUI]现代化 UI”模组，优化了渲染性能，支持聊天框输入表情<br>
+* ③+新增了“Sit!”模组，现在玩家可以在游戏内随时坐下了<br>
+* ④+新增了“Litemoretica”和“锂Lithium”等优化模组<br>
+* ⑤+新增了“AllMusic”模组，现在玩家可以在游戏内全服点歌了<br>
+* ⑥+新增了“[DH]Distant Horizons”模组，现在玩家可以在几乎不损失性能的情况下，获得遥远的视距<br>
+* ⑦-删除了功能重复和无用的模组<br>
+
+Ver 1.2.3<br>
+* ①+-删除了原语音模组并替换为“[Plasmo语音]Plasmo Voice”模组，在游戏内即可畅聊，按V键进入配置菜单<br>
+* ②+添加“Easy NPC”模组，现在玩家可以在游戏内配置NPC了<br>
+* ③+添加“Ad Astra!”模组，现在玩家可以去其他星球探索了，造火箭发射中心指日可待（bushi<br>
+* ④+添加“[录像回放]Replay Mod”模组，现在玩家可以更好的进行游戏内录制了<br>
+* ⑤+添加“[随处随笔]World Comment”模组，现在玩家拥有比告示牌更方便，内容丰富的评论系统了<br>
+* ⑥+添加“[快捷菜单]Quick Menu”模组，现在玩家可以非常方便的执行重复性动作和相关指令了（类似于MC版手机的快捷指令）<br>
+* ⑦+添加了优化和美化模组<br>
+
+Ver 1.2.4<br>
+* ①+添加了“[雕凿工艺]Chisels & Bits”模组，现在可以进行更精细的方块编辑了<br>
+* ②+更新和添加了部分模组<br>
+* ③+更新整合包自带jdk版本至23.0.2<br>
+* ④-删除了语音模组，因为其暂时不可用<br>
+* ⑤-删除了部分负优化模组<br>
+
+Ver 1.3.0<br>
+* ①+实现了整合包的自动更新，再也不用重新下载整合包啦！<br>
+* ②+更新了MTR及其附属模组至最新版本<br>
+* ③+添加了"[傻瓜烹饪/懒人厨房]Cooking for Blockheads"模组，现在可以丰富厨房了！<br>
+* ④+添加了"[迷上城建]Mishang Urban Construction"模组，道路系统更加丰富了！<br>
+* ⑤+添加了"Plushie Mod"模组，现在可以放置可爱的玩偶了！<br>
+* ⑥+添加了"Astrocraft"模组，现在世界拥有更真实的星空！<br>
+* ⑦+添加了"[JEI物品管理器]Just Enough Items"和"[通用拼音搜索]Just Enough Characters"模组，现在可以更便捷的搜索了！<br>
+* ⑧+添加了"[现代化按键绑定]Modern KeyBinding"模组，现在可以更好的绑定按键了（使用组合键）!<br>
+
+Ver 1.3.1<br>
+* ①+-更换"[JEI物品管理器]Just Enough Items"为"[REI物品管理器]RoughlyEnoughItems"<br>
+
+Ver 1.3.2<br>
+* ①+添加了"[MTR俄罗斯追加]MTR-Russian-Metro-Addon"模组<br>
+* ②+添加了一些MTR的追加包<br>
+* ③-删除了一些使用率较低的模组<br>
+
+Ver 1.3.3<br>
+* ①+添加了一些MTR追加包<br>
+
+Ver 1.3.4<br>
+* ①+添加了"[玉]Jade"模组，现在拥有更好的提示GUI<br>
+* ②+添加了"[幻灯片Pro]模组，现在能加载在线图片和GIF了（该模组只能加载在线图片）<br>
+* ③+更新Fabric加载器版本为1.6.10<br>
+
+Ver 1.3.5<br>
+* ①-紧急撤回了“幻灯片Pro”模组的更新，因为其导致无法进入服务器<br>
+
+Ver 1.3.6<br>
+* ①+新增了“[静谧四季]SereneSeasons”模组，现在游戏将会有季节之分<br>
+* ②+更新“[我的世界铁路]MTR”模组至beta15(h1)版本<br>
+* ③+新增“[BBS]Blockbuster Studio”模组，现在可以更好的制作视频作品<br>
+* ④-删除了“[想坐就坐]Sit！”模组，因为其可能导致单人档的崩溃<br>
+
+Ver 1.4.0<br>
+*重大更新*<br>
+本次更新将游戏版本降至1.20.1，模组加载器改为Forge，并通过信雅互联加载Fabric模组。 除少数不支持模组和仅NeoForge模组外，两大模组生态实现了贯通，可以充分利用1.20.1丰富的模组生态。<br>
+目前有计划加入但因各种原因无法加入的模组：[机械动力]Create、[瓦尔基里天空]Valkyrien Skies、[沉浸车辆]Immersive Vehicles<br>
+具体更新列表：<br>
+* ①+新增"[沉浸式飞机]immersive Aircraft"及其附属，方向：飞行载具<br>
+* ②+新增"[森罗物语]kaleidoscope"、"[圣诞彩灯] fairylights"等，方向：建筑装饰<br>
+* ③+新增"[卓越前线]Superb Warfare"，方向：枪械、军事载具<br>
+* ④+新增"[车万女仆] touhoulittlemaid"、"[是，史蒂夫模型] yesstevemodel"模组，方向：玩家模型、辅助、娱乐<br>
+* ⑤+新增"[永恒枪械工坊：零] tacz"，方向：枪械<br>
+* ⑥+新增"[网络音乐机] netmusic"，方向：娱乐、音乐<br>
+* ⑦+新增"[星光的载具]stars_carrier"，方向：载具<br>
+* ⑧+新增"[鈇] flerovium"、"embeddium"，方向：优化<br>
+* ⑨+新增"[信雅互联] Connector"及其附属，方向：兼容<br>
+* ⑩+新增"[电脑]cc-tweaked",方向：编程、自动化、图形化<br>
+* ⑪+-更新了部分模组至最新版本，删除了部分冗余模组和不兼容模组<br>
+特别说明：本次更新仍可以通过自动更新进行版本更迭，但由于版本修改幅度大，结构变更较多，自动更新可能会产生一定BUG，且文件夹内残留旧版本数据较多，故推荐重新下载整合包<br>
+
 ## 3.如何提交建议和反馈BUG
 傻瓜式:[点击这里](https://github.com/nclmredtea/NAHGN/issues/new/choose)<br>
 或者转到`Issues`然后点击`New issue`按钮创建，然后在`Leave a comment`输入框输入反馈内容<br>
@@ -125,15 +213,14 @@ Ver0.31<br>
 ### 开黑啦邀请链接
 * https://kaihei.co/LiBrqZ
 ## 8.相关网址推荐Website Recommendation
-* MCBBS我的世界中文论坛:https://www.mcbbs.net/
+* MCBBS我的世界中文论坛:https://www.mcbbs.net/（已经失效）
 * SakuraFrp樱花映射:https://www.natfrp.com/
 * lanzou蓝奏云:https://www.lanzou.com/
-* Spigot我的世界论坛:https://www.spigotmc.org/
-* Bukkit我的世界论坛:https://dev.bukkit.org/
-* CurseForge我的世界论坛:https://www.curseforge.com/minecraft/
+* Spigot论坛:https://www.spigotmc.org/
+* Bukkit论坛:https://dev.bukkit.org/
+* CurseForge:https://www.curseforge.com/minecraft/
 * CBCreator命令方块指令生成器:https://www.mcmod.cn/tools/cbcreator/#/home/
 * MinecraftPluginWiki我的世界插件百科:https://mineplugin.org/%E9%A6%96%E9%A1%B5
 * MinecraftWiki我的世界百科(bilibili镜像):https://wiki.biligame.com/mc/Minecraft_Wiki
-* GitHub:https://github.com/
 * Minecraft官网:https://minecraft.net/
 * CowTransfer奶牛快传:https://cowtransfer.com/
