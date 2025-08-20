@@ -1,5 +1,5 @@
 # CLN
-Chasing Light Network(光启网络)<br>[![CLN.png](https://i.postimg.cc/Y90c57ZJ/NAHGN.png)](https://postimg.cc/DW9YG92g)<br>
+Chasing Light Network(光启网络)<br>[![QQ20250820-204023.png](https://i.postimg.cc/fyxn8qQQ/QQ20250820-204023.png)](https://postimg.cc/ct4bHmJF)<br>
 ![版本.png](https://img.shields.io/badge/Lastest%20Release-Ver1.4.0-green?style=for-the-badge)
 ## 前言
 该项目旨在发布版本更新，公示详细的更新内容，以及留存服务器整合包的历史版本<br>
